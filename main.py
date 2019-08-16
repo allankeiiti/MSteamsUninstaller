@@ -5,6 +5,8 @@ from getpass import getuser
 from os import system
 from tkinter import *
 
+# JUST A CONCEPT WITH TKINTER
+
 def listusers(server=None):
     # Essa função recolhe o nome de todos os perfis de usuário da estação
     # Source: # https://stackoverflow.com/questions/41018572/how-to-know-which-all-users-have-a-account
