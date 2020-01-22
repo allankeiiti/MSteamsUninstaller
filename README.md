@@ -7,3 +7,6 @@ pastas de usuários na estação local.
 
 Descobri que o MS Teams é instalado dentro do diretório AppData ("C:\Users\<User>\AppData") e com a execução de um simples comando,
 facilitamos a desinstalação do Software.
+
+Tentei criar uma GUI (Graphic User Interface) utilizando o TKinter, porém sem sucesso (Como podem ver, há um arquivo .PSD que tinha uma
+janelinha a ser criada, com o Logo do Software e uma imagem do Tekkaman Blade da Tatsunoko)
